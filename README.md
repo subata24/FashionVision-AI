@@ -49,7 +49,7 @@ FashionVision AI analyzes your outfit and classifies it as one of the following:
 FashionVision-AI/
 │
 ├── app.py                  # Gradio app code  
-├── FashionVision-AI.keras  # Trained image classification model  
+├── fashion_classifier_model.keras  # Trained image classification model  
 ├── requirements.txt        # Dependencies  
 ├── README.md               # Project overview (this file)  
 ```
